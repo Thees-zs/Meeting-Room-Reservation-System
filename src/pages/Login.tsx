@@ -65,7 +65,7 @@ const Login: React.FC = () => {
           请登录您的账号
         </p>
         <p className="mt-1 text-center text-xs text-gray-500">
-          开发者：李歆阳 王彤宇 曾帅
+          开发者：Thees
         </p>
       </div>
 

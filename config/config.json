@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Zs20040727.",
+    "database": "meeting_room_db",
+    "host": "localhost",
+    "dialect": "mysql",
+    "timezone": "+08:00"
+  },
+  "test": {
+    "username": "root",
+    "password": "Zs20040727.",
+    "database": "meeting_room_db_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+08:00"
+  },
+  "production": {
+    "username": "root",
+    "password": "Zs20040727",
+    "database": "meeting_room_db_prod",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+08:00"
+  }
+}
